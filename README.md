@@ -1,6 +1,6 @@
 Project for Getting and Cleaning Data
 =====================================
-Author:  Efren Katague (https://github.com/efrenk/GettingAndCleaningData)
+Author:  Efren Katague (https://github.com/efrenk/GCDProject)
 
 
 Parameters for the project
